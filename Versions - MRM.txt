@@ -1,3 +1,0 @@
-Version 0 - Added Content
-Version 1.0 - Rephrased
-Version 2.0 - Changed format
